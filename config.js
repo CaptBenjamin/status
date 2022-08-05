@@ -10,7 +10,7 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 30,
+  CountDays: 90,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -20,10 +20,6 @@ window.Config = {
     {
       text: 'LYKNS 外部官网',
       url: 'https://www.lykns.tk/'
-    },
-    {
-      text: '状态主页',
-      url: 'https://status.lykns.tk/'
     },
   ],
 };
