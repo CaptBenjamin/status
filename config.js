@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'LYKNS 外部官网',
-      url: 'https://www.lykns.tk/'
+      url: 'https://eow.lykns.tk/'
     },
     {
       text: 'LYKNS 内部主页',
